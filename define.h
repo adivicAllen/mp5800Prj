@@ -1,7 +1,8 @@
 #ifndef _DEFINE_H_
 #define _DEFINE_H_
 #include "TOP_LEVEL.h"
-#include <Windows.h>
+//#include <Windows.h>
+#incldue <stdint.h>
 #include <vector>
 
 #define DUTLOG 1

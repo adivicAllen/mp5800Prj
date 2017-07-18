@@ -1,4 +1,3 @@
-#include "StdAfx.h"
 #include "ADIVIC_Logger.h"
 
 
